@@ -1031,14 +1031,9 @@
       "mp3": "sounds/trancemusicforracinggame.mp3"
     },
     {
-      "name": "1, 2, buckle my shoe",
-      "color": "#4fb2e3",
-      "mp3": "sounds/onetwobucklemyshoe.mp3"
-    },
-    {
-      "name": "DOWN IN OHIO",
+      "name": "ITS COMMING OUT",
       "color": "#000000",
-      "mp3": "sounds/downinohio.mp3"
+      "mp3": "sounds/ITSCOMMINGOUT.mp3"
     }
   ]
 }
