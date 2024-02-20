@@ -1034,6 +1034,18 @@
       "name": "ITS COMMING OUT",
       "color": "#2B2A1B",
       "mp3": "sounds/ITSCOMMINGOUT.mp3"
-    }
+    },
+    {
+      "name": "Yor bluetooooooth devise is readdy to pear",
+      "color": "#0062ff",
+      "mp3": "sounds/bluetooth.mp3
+"
+    },
+    {
+      "name": "Mewing Song",
+      "color": "#ffe600",
+      "mp3": "sounds/mewing.mp3
+"
+    },
   ]
 }
