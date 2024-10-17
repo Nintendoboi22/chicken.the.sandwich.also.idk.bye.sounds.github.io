@@ -1,4 +1,4 @@
-# Online Soundboard
+# Online Soundboard(thanks 3kh0
 Simple yet powerful online soundboard app that is a huge improvement from the last one.
 
 ## Features
